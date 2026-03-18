@@ -1,5 +1,3 @@
-# yoyi-smart-chat-Wordpress-
-專為 WordPress 打造的 AI 智慧客服外掛
 # ✨ Yoyi AI 智慧客服 (Yoyi Smart Chatbot for WordPress)
 
 專為 WordPress 網站打造的純淨版 24 小時線上智能客服外掛。
@@ -27,7 +25,7 @@
 
 這是一款標準的 WordPress 外掛，安裝過程非常簡單：
 
-1. 前往右側的 **[Releases](https://github.com/eboss99s/yoyi-smart-chat-Wordpress-/releases/latest)** 頁面。
+1. 前往右側的 **[Releases](https://github.com/eboss99s/yoyi-smart-chat-Wordpress-plugins/releases/latest)** 頁面。
 2. 找到最新的版本，點擊 **`yoyi-bot.zip`** 下載安裝檔。
 3. 登入您的 WordPress 後台。
 4. 前往 `外掛` -> `安裝外掛` -> `上傳外掛`。
@@ -59,8 +57,8 @@
 ## 👨‍💻 關於作者
 
 **Yoyi (Huang Jin De)**
-全端工程師 / 數位科技公司創辦人 / 擁有 14 年專業攝影經驗的跨界開發者。
-致力於透過數位工具與自動化系統，幫助企業提升營運效率與品牌價值。
+Yoyi Digital 創辦人 / 擁有 14 年專業經驗的攝影師與跨界開發者。
+專精於前端開發 (HTML, CSS, JS) 與 WordPress (Flatsome 佈景主題) 網站建置。致力於透過數位工具與自動化系統，幫助企業提升營運效率與品牌價值。
 
 * 如果這個外掛對您有幫助，歡迎在右上角點個 ⭐ **Star** 支持一下！
 * 若有任何 Bug 或功能建議，歡迎開啟 Issue 討論。
